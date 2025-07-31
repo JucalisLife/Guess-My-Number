@@ -1,0 +1,21 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "Guess My Number game",
+  "default": "index.html",
+  "homepage": "https://github.com/JucalisLife/Guess-My-Number#readme",
+  "bugs": {
+    "url": "https://github.com/JucalisLife/Guess-My-Number/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JucalisLife/Guess-My-Number.git"
+  },
+  "license": "ISC",
+  "author": "Jucal Adefokun",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  }
+}

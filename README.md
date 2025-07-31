@@ -2,7 +2,7 @@
 <img width="3838" height="1909" alt="Screenshot 2025-07-31 015149" src="https://github.com/user-attachments/assets/e910d139-6778-4c3a-9050-83ff74e4dabe" />
 
 ## About the Project
-Guess My Number is a game built with the aid of HTML, CSS and JavaScript implementing DOM manipulation.
+Guess My Number is a game built with the aid of HTML, CSS and JavaScript providing functionality with the aid of DOM manipulation.
 
 ## Built with
 
